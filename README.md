@@ -1,5 +1,10 @@
 # NeoMask Plugin 
 
+## Summary
+
+Swap out the MetaMask methods with those in the NEO/AntShares Typescript library here:
+https://github.com/AntSharesSDK/antshares-ts?files=1
+
 ## Developing Neo AKA AntShares (ANS) Compatible Dapps
 
 If you're a web dapp developer, we've got two types of guides for you:
